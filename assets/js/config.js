@@ -11,7 +11,7 @@
 */
 
 window.PORTFOLIO_CONFIG = {
-  CONFIG_CSV_URL: "PASTE_WEBSITE_CONFIG_CSV_URL_HERE",
+  CONFIG_CSV_URL: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQy9wZ4d80QLzQHZqR-rLK8vOj5rUnrNGTTyWQBZNrFMo-Yb9b9Y7ceA-SY8qXNcaPqMZ5wtrFStv_6/pub?output=csv",
 
   // Keep this false for real public deployment.
   USE_SAMPLE_DATA_IF_CONFIG_MISSING: false
